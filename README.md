@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @git-atieno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I am Atieno Mary  
 
-<!---
-git-atieno/git-atieno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I am a **computer science student**, passionate about learning, building, and growing in the fields of software engineering and cybersecurity.
+
+## 🌟 About Me  
+- 🔭 I’m always exploring new technologies and working on exciting projects.  
+- 🌱 I love learning and continuously expanding my skills.  
+- 💡 I enjoy solving problems and collaborating with like-minded individuals.  
+- ✨ My goal is to create impactful solutions through technology.  
+
+## 💻 Skills  
+- **Programming Languages**:  
+  - Python | JavaScript  
+- **Web Development**:  
+  - HTML | CSS | Bootstrap | Django | React  
+- **Tools & Platforms**:  
+  - Git & GitHub | Docker | Linux | VS Code | Pycharm  
